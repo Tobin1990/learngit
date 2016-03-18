@@ -1,0 +1,34 @@
+{
+  "name": "dboss-angular-mod-fis3",
+  "version": "1.0.0",
+  "description": "fis3+angular+mod for baidu boss system",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kentpan/dboss.git"
+  },
+  "keywords": [
+    "angular",
+    "fis",
+    "fis3",
+    "mod",
+    "require"
+  ],
+  "dependencies": {
+    "fis3-hook-module": "*",
+    "fis3-postpackager-loader": "*",
+    "fis-parser-less": "*",
+    "fis-preprocessor-annotate": "*"
+  },
+  "author": "panjian01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentpan/dboss/issues"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.7",
+    "karma-junit-reporter": "^0.3.8"
+  }
+}
